@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KaranfuSamhu
-- 👀 I’m interested in learning about developing softwares
--
-
+- 👀 I’m interested in learning about developing software
 - 📫 How to reach me: You can reach me through github
 
 <!---
